@@ -15,7 +15,7 @@ POST http://localhost:8080/api/employees
 Content-Type: application/json
 
 {
-  "name": "Jane Doe"
+  "name": "Jane Doe 2"
 }
 
 ### Create employee with address
